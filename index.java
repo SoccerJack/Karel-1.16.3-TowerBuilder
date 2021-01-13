@@ -43,17 +43,17 @@ public class TowerBuilderKarel extends SuperKarel
                 else
                 {
                     move();
-                        if(ballsPresent())
+                    if(ballsPresent())
                     {
                         turnAround();
                         move();
                         /* only build a tower if there are no spaces
                         behind you and if there is no space in front*/
                         if(frontIsClear())
-                            {
-                                move();
-                                buildTower();
-                            }
+                        {
+                            move();
+                            buildTower();
+                        }
                     }
                 }
             }
