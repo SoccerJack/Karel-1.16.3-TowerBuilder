@@ -5,3 +5,5 @@ Hello! This is my 1.16.3 that I coded for Karel CodeHS.
 
 If you are reading this hi and also please dont just copy and 
 paste before you know what the code actually does, thanks :)
+
+`By using my code you agree that this is Jack Mallett's code and it can't be claimed as your own`
